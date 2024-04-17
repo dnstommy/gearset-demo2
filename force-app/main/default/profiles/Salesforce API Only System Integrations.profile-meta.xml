@@ -5515,6 +5515,9 @@
         <layout>Bike__c-Bike Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>MyObjectFive__c-MyObjectFive Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
