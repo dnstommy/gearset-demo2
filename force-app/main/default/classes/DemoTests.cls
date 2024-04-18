@@ -10,5 +10,8 @@ private class DemoTests {
 
         System.assertEquals(true, passTest);
 
+        // add debug message
+        System.debug('PassTest: ' + passTest);
+
     }
 }
