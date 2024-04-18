@@ -5567,6 +5567,9 @@
         <layout>CustomSetting__mdt-CustomSetting Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DemoCar__c-DemoCar Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>MyObjectFive__c-MyObjectFive Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
