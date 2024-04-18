@@ -148,6 +148,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DemoCar__c.Make__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>TestObject__c.MyNumber__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -5511,6 +5516,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>CustomSetting__mdt-CustomSetting Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DemoCar__c-DemoCar Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>MyObjectFive__c-MyObjectFive Layout</layout>
